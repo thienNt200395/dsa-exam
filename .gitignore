@@ -1,0 +1,9 @@
+# Compiled Java
+*.class
+out/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
